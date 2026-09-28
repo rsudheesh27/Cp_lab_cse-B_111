@@ -51,11 +51,11 @@ I solve problems on various competitive programming platforms, mainly using **Ja
 
 ## 👨‍🎓 Student Details
 
-**Name:** NIKHI K
+**Name:** R S Sudheesh
 
-**Roll No:** A24126510084
+**Roll No:** A24126510111
 
-**Email:** kotipatruninikhil.24.cse@anits.edu.in
+**Email:**racharlasarangasudheesh.24.cse@anits.edu.in
 
 ---
 
